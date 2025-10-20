@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Linh, a passionate PHP developer based in Vietnam, with a strong focus on Laravel and Symfony frameworks. I thrive on actively contributing to the open-source community.
+I'm Linh, a passionate PHP developer based in Vietnam, with a strong focus on Laravel framework. I thrive on actively contributing to the open-source community.
 
 ## 🛠️ Skills 
 ```javascript
