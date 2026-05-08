@@ -34,9 +34,6 @@ const pnlinh = {
 - [Laravel Query Logger](https://github.com/laravel-query-logger) - Track and log SQL queries for Laravel applications.
 - [Vietnamese Converter](https://github.com/vietnamese-converter) - Convert Vietnamese characters for web applications.
 
-## 📫 Connect with Me
-- Email: pnlinh1207@gmail.com
-
 ## 🌟 Stargazers Over Repositories
 - docker-php - 230 stars
 - laravel-google-distance - 180 stars
